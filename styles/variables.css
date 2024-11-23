@@ -7,11 +7,10 @@
   --main-font: 'IBM Plex Mono';
   --main-font-size: 18px;
   --bg-color: #000028;
-  --accent-color: #FF0070;
-  --text-color: #F1B2CE;
-  --secondary-color: #FF0070;
-  --hero__text-color: #DB00FF;
+  --accent-color: #ff0070;
+  --text-color: #f1b2ce;
+  --secondary-color: #ff0070;
+  --hero__text-color: #db00ff;
   --bg-image: url(../images/cover-image-dark.png);
   --hero-text-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
-
