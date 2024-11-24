@@ -51,7 +51,7 @@
 
 .rec__text {
   text-transform: uppercase;
-  color: var(--secondary-color);
+  color: var(--accent-color);
   position: absolute;
   top: 8px;
   right: 39px;
