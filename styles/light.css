@@ -4,17 +4,14 @@
   --text-color: #353430;
   --hero__text-color: #ffc2e6;
   --secondary-color: #353430;
+  --nav-color: #353430;
+  --title-decor-text-color: #353430;
   --bg-image: url(../images/cover-image-light.png);
 }
 
 .page.theme_light .rec__text,
 .page.theme_light .rec__dot::before {
   display: none;
-}
-
-.page.theme_light .title-decor,
-.page.theme_light .content__section-heading {
-  color: var(--secondary-color);
 }
 
 @media (prefers-color-scheme: light) {
@@ -25,16 +22,13 @@
     --text-color: #353430;
     --hero__text-color: #ffc2e6;
     --secondary-color: #353430;
+    --nav-color: #353430;
+    --title-decor-text-color: #353430;
     --bg-image: url(../images/cover-image-light.png);
   }
 
   .rec__text,
   .rec__dot::before {
     display: none;
-  }
-
-  .title-decor,
-  .content__section-heading {
-    color: var(--secondary-color);
   }
 }

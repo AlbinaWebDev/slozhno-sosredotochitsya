@@ -1,13 +1,15 @@
 :root {
   --main-font: 'IBM Plex Mono';
   --main-font-size: 18px;
+  --hero-text-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --regular: 400;
   --bold: 700;
   --bg-color: #000028;
   --accent-color: #ff0070;
   --text-color: #f1b2ce;
   --secondary-color: #ff0070;
+  --nav-color: #ff0070;
+  --title-decor-text-color: #000028;
   --hero__text-color: #db00ff;
   --bg-image: url(../images/cover-image-dark.png);
-  --hero-text-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
